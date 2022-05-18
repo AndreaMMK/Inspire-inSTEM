@@ -8,4 +8,3 @@ print('Hello World')
 #this is for a
 # Multiple/many lines
 print("my name is Andrea Kitonga")
-print(" number ")
