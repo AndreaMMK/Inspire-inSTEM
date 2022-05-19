@@ -33,7 +33,7 @@ s_name = "ANDREA KITONGA"
 # .lower() convert to lower case
 
 print(s_name.lower())
-#concertination .converting from one data type to another
+#concatenation .converting from one data type to another
 # int -> float  float(x)
 #float -> int    int(x)
 #int -> string   str(x)
