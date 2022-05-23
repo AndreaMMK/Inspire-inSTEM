@@ -40,4 +40,13 @@ for pupil in  pupil :
  print("Hello i am pupil (pupil)")
 
 
+# list use the index
+fruits = ["apple" , "Lime" , "orange"]
+fruits[-1]
+print = (fruits [-1])
+fruits[2] =  'guava'
+print(fruits)
+print (fruits[50])
+
+
 

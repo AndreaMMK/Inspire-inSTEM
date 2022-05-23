@@ -19,3 +19,27 @@ schoolAttended = "Precious Blood"
 
 print(" I am " + my_first_name)
 print(" I am " + str(age) + " years old")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
