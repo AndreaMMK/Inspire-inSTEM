@@ -6,7 +6,7 @@ name = "Andrea"
 money = input ("what amount of money do you have")
 account_balance = 150000
 if("int(money>100000 and (int(money<200000)"):
-    account_balance = account_balance - 250000
+    account_balance =float( account_balance) - 250000
     print("we have deducted 25000")
 if("int(account_balance) > 500000 and (int(account_balance)) < 1000000"):
     print("we have deducted 30 percent from your account")
