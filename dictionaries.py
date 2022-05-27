@@ -56,3 +56,23 @@ for color in colors:
     if(colors[0] == "purple"):
         print(colors[0].upper())
         i += 1
+
+
+print("person.get('password'the 'location' key is non existent")
+
+mary_fav_food = ['beef','chiken','vegetable']
+jane_fav_food = ['rice','ugali','potatoes']
+#dictionary containing the above
+food={
+    'mary':['beef','chiken','vegetable'],
+    'jane':['rice','ugali','potatoes'],
+}
+print(food)
+# list in dictionaries
+# person (name,email,password)
+person= {
+    'joy':['name','email','password']
+}
+print(person)
+
+
